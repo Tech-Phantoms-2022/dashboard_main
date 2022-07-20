@@ -1,6 +1,6 @@
 # Dashboard Page
-
-<p>  Admin Dashboard for Cybercell to keep track of suspicious messages on the messaging platform. </p>
+<h4> This is a project created to display database(db) in a tabular format. </h4> 
+<p> Illustration of Admin Dashboard for Cybercell to keep track of suspicious messages on the messaging platform. </p>
 
 ## Setup
 
